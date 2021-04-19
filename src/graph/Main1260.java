@@ -33,7 +33,7 @@ public class Main1260 {
 		for (int i = 1; i < n + 1; i++) {
 			Collections.sort(graph.get(i));
 
-			// System.out.println(graph.get(i).toString());
+		
 		}
 		dfs(graph, visited, root);
 		for (int i = 1; i < n + 1; i++) {
