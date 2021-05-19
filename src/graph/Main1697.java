@@ -17,11 +17,11 @@ public class Main1697 {
 
 		bfs(sujin, sis);
 
-//	for(int i = 0; i <17; i++) {
-//		
-//		System.out.print(graph[i]+" " );
-//		
-//	}
+	for(int i = 0; i <17; i++) {
+		
+		System.out.print(graph[i]+" " );
+		
+	}
 
 	}
 
